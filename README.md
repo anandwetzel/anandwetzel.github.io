@@ -1,2 +1,2 @@
-# anandwetzel.github.io
-Github pages
+# Anand Wetzel's Page
+Welcome to my github page!
